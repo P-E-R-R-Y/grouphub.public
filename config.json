@@ -1,0 +1,12 @@
+{
+  "group": [
+    {
+      "name": "Interface",
+      "repos": ["imodule", "igraphic"]
+    },
+    {
+      "name": "Tools",
+      "repos": ["vsc_ws", "ghp"]
+    }
+  ]
+}
