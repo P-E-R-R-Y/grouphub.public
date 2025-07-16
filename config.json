@@ -6,7 +6,7 @@
     },
     {
       "name": "Tools",
-      "repos": ["vsc_ws", "ghp"]
+      "repos": ["ghp", "maker"]
     }
   ]
 }
