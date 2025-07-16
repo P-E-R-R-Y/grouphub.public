@@ -10,19 +10,11 @@
     },
     {
       "name": "Interface",
-      "repos": ["imodule", "igraphic", "iapp"]
-    },
-    {
-      "name": "Encapsulation",
-      "repos": ["raygraphic", "sfmlgraphic", "sdlgraphic"]
-    },
-    {
-      "name": "IModule",
-      "repos": ["imodule", "igraphicmodule", "iappmodule", "ipluginmodule"]
+      "repos": ["imodule", "igraphic", "iapp", "raygraphic", "sfmlgraphic", "sdlgraphic"]
     },
     {
       "name": "Module",
-      "repos": ["raygraphicmodule", "hunterappmodule"]
+      "repos": ["imodule", "igraphicmodule", "iappmodule", "ipluginmodule", "raygraphicmodule", "hunterappmodule"]
     }, 
     {
       "name": "Projet",
