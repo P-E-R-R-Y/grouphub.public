@@ -5,7 +5,7 @@
       "repos": ["ghp", "maker", "openurl", "gen_idef"]
     },
     {
-      "utils": "Utils",
+      "name": "Utils",
       "repos": ["cmake-utils", "golang-utils"]
     },
     {
