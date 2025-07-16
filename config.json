@@ -1,12 +1,32 @@
 {
   "group": [
     {
-      "name": "Interface",
-      "repos": ["imodule", "igraphic"]
+      "name": "Tools",
+      "repos": ["ghp", "maker", "openurl", "gen_idef"]
     },
     {
-      "name": "Tools",
-      "repos": ["ghp", "maker"]
+      "utils": "Utils",
+      "repos": ["cmake-utils", "golang-utils"]
+    },
+    {
+      "name": "Interface",
+      "repos": ["imodule", "igraphic", "iapp"]
+    },
+    {
+      "name": "Encapsulation",
+      "repos": ["raygraphic", "sfmlgraphic", "sdlgraphic"]
+    },
+    {
+      "name": "IModule",
+      "repos": ["imodule", "igraphicmodule", "iappmodule", "ipluginmodule"]
+    },
+    {
+      "name": "Module",
+      "repos": ["raygraphicmodule", "hunterappmodule"]
+    }, 
+    {
+      "name": "Projet",
+      "repos": ["Perry", "devkit"]
     }
   ]
 }
